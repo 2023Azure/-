@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\麦当劳代码\maimai\maimai\maimai\源.cpp(640,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  maimai.vcxproj -> D:\麦当劳代码\maimai\maimai\x64\Debug\maimai.exe
